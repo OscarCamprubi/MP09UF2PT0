@@ -1,0 +1,24 @@
+* {
+    list-style: none;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    border: solid black 2px;
+}
+
+.image:hover {
+    opacity: 65%;
+}
+
+.row {
+    display: flex;
+    gap: 20px;
+}
+
+.vector {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
